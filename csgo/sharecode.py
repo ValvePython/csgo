@@ -24,7 +24,7 @@ def decode(code):
     .. code:: python
 
         {'matchid': 0,
-         'outomceid': 0,
+         'outcomeid': 0,
          'token': 0
          }
     """
