@@ -40,7 +40,7 @@ Sending/Recieving messages
 ==========================
 
 Let's request profile of the currently logged on user. We only need the account id.
-If need to convert from steam id or any other format see `SteamID <http://valvepython.github.io/steam/api/steam.steamid.html>`_.
+If need to convert from steam id or any other format see `SteamID <https://steam.readthedocs.io/en/latest/api/steam.steamid.html>`_.
 
 .. code:: python
 
